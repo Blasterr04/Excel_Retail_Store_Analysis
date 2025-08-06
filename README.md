@@ -108,12 +108,32 @@ Distribution of orders by sales channel to identify top-performing platforms.
 
 ---
 
-## Key Insights  
-- **Seasonality in Sales:** Sales peaked in March (₹1.93 M) and dipped toward year-end (Dec: ₹1.62 M), suggesting promotional focus in Q4.  
-- **Demographic Skew:** Women contributed nearly two-thirds of total sales, with the “Adult” segment (25–54 years) being most active.  
-- **Channel Dominance:** Amazon captured over one-third of orders, followed by Flipkart and Myntra. Smaller players like Ajio and Nalli present growth opportunities through targeted campaigns.  
-- **Geographic Concentration:** Maharashtra and Karnataka lead in sales, highlighting these markets for inventory and marketing prioritization.  
-- **Fulfillment Health:** A high delivery rate (92.3%) indicates operational efficiency, but the combined returned/refunded rate (5.1%) warrants root-cause analysis to reduce dissatisfaction.
+## 💡 Key Insights
+
+### 🚀 Performance Trends
+- **March is the peak month** with highest sales (₹1.93M) and order volume (2,819 orders)
+- **Q4 shows unexpected decline** (Oct-Dec) despite holiday season, indicating potential market shifts
+- **Strong correlation** between order count and total sales across all months
+
+### 👥 Customer Behavior
+- **Women dominate purchasing power** (64% of revenue) - nearly double men's contribution
+- **Adult women (34.59%)** are the highest-value customer segment
+- **Teenagers represent untapped potential** - smallest segment (4.71% combined)
+
+### 📦 Operational Efficiency
+- **Healthy delivery rate** (92.3%) indicates effective fulfillment
+- **7.7% order failure rate** (returns + cancellations + refunds) represents significant revenue recovery opportunity
+- Return rate (3.4%) exceeds industry average - suggests product/sizing issues
+
+### 🌍 Regional Analysis
+- **Top 3 states contribute 36%** of total revenue (Maharashtra, Karnataka, UP)
+- **Maharashtra leads by wide margin** (₹2.99M) - 41% higher than #3 state (UP)
+- **Southern states dominate** - 4 of top 5 positions
+
+### 📱 Channel Effectiveness
+- **Amazon dominates market share** (35.5%) - captures more than 1/3 of all orders
+- **Top 3 channels (Amazon+Myntra+Flipkart)** control 80.5% of order volume
+- **Specialty channels (Nalli, Ajio)** show niche potential despite low overall share
 
 ---
 
