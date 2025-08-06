@@ -117,8 +117,6 @@ Distribution of orders by sales channel to identify top-performing platforms.
 
 ---
 
----
-
 ## Conclusion  
 This interactive dashboard provides a consolidated view of retail performance metrics, enabling quick decision-making around inventory, marketing, and customer engagement. Explore the filters and visualizations to uncover deeper trends and tailor strategies for growth in 2025 and beyond.
 
